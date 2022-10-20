@@ -1,11 +1,11 @@
 # adb-screen-recorder
 Simple script to record and covert screen recordings on Android to gifs
 
-## ** Installation**
+## **Installation**
 This script uses ADB and ffmpeg to convert mp4 files to gifs. ffmpeg can be downloaded via brew
 `> $brew install ffmpeg`
 
-## *Usage:**
+## **Usage:**
 ### **The script has 2 option flags**
 
 ### **Quality: -q (optional)**
